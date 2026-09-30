@@ -44,11 +44,3 @@ Sebelum instalasi, pastikan sudah terpasang:
 - **VS Code** (untuk edit kode)
 
 ---
-
-## 🚀 Cara Instalasi
-
-### 1. Clone / Download Project
-
-```bash
-git clone <url-repository>
-cd pesanmakan
